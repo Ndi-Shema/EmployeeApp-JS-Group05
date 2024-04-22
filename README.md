@@ -32,9 +32,7 @@
 - Delete any Employee Detail with single click.
 
 ## Technologies
-
-- Spring Boot MySQL Postman React
-
+- Node js
 -  React: Front-end JavaScript library for building the user interface.
 - MySQL: Database for storing information.
 - Postman: Tool for API development and testing.
